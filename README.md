@@ -1,2 +1,2 @@
 # Demo_Repo
-1. Clone repository
+1. Clone repo
